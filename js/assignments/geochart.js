@@ -11,7 +11,7 @@ google.charts.load("current", {
     // Collect the data from the API
     var jsonDataString = $.ajax({
       url:
-        "http://emotional-apps.com/apis/meit/stats/getdata.php?test=1&gender=all&age=all&begindate=2000-01-01&enddate=2014-11-24",
+        "https://emotional-apps.com/apis/meit/stats/getdata.php?test=1&gender=all&age=all&begindate=2000-01-01&enddate=2014-11-24",
       dataType: "json",
       async: false
     }).responseText;

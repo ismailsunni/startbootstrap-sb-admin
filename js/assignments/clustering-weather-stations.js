@@ -1,5 +1,5 @@
 var OpenWeatherKey = "b975cc9f4ba510724c9bdb7d7f317657";
-var OpenWeatherURL = "http://api.openweathermap.org/data/2.5/find?";
+var OpenWeatherURL = "https://api.openweathermap.org/data/2.5/find?";
 var stations = [];
 
 // Get the data

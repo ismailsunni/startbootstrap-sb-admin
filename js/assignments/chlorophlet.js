@@ -1,5 +1,5 @@
 var dataUrl =
-"http://emotional-apps.com/apis/meit/stats/getdata.php?test=1&gender=all&age=all&begindate=2000-01-01&enddate=2018-02-04";
+"https://emotional-apps.com/apis/meit/stats/getdata.php?test=1&gender=all&age=all&begindate=2000-01-01&enddate=2018-02-04";
 var countryUrl =
 "https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json";
 
